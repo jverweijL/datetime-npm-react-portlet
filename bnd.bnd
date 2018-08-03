@@ -1,0 +1,5 @@
+Bundle-Name: datetime-npm-react-portlet
+Bundle-SymbolicName: com.liferay.demo.npm.react.datetime
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.demo.npm.react.constants
+Web-ContextPath: /my-npm-react-portlet
